@@ -3,12 +3,32 @@ entries:
   jenkins:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-05-22T21:49:42.727569496+03:00"
+    created: "2025-05-26T20:46:13.317415072+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 18d50e7c77ff51e728c1d68bb58e146ae571c24d9202c31def6f6fbbad449a4e
+    name: jenkins
+    type: application
+    urls:
+    - https://infinity-step.github.io/project_14/jenkins-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-05-26T20:46:13.317079968+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 22c08cfe8b457baff98d42e01218fd4a077d3c1c66a3ce3721a48df1115c84fb
+    name: jenkins
+    type: application
+    urls:
+    - https://infinity-step.github.io/project_14/jenkins-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-05-26T20:46:13.316833657+03:00"
     description: A Helm chart for Kubernetes
     digest: 82a8adb550ac33583ecafd6105072ca148d0e6b0cbaacb87b5777d155f426be0
     name: jenkins
     type: application
     urls:
-    - https://infinity-step.github.io/project_14/helm-releases/jenkins-1.0.0.tgz
+    - https://infinity-step.github.io/project_14/jenkins-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-22T21:49:42.727211864+03:00"
+generated: "2025-05-26T20:46:13.316191627+03:00"
