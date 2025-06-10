@@ -3,7 +3,17 @@ entries:
   jenkins:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-05-26T21:46:12.332523032+03:00"
+    created: "2025-06-10T15:00:01.978551422+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 7af7efb2a5293e7e299b2e75727b4b2d1dac929aca61a4a1d0208286ce557e43
+    name: jenkins
+    type: application
+    urls:
+    - https://infinity-step.github.io/project_14/helm-releases/jenkins-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-06-10T15:00:01.978316645+03:00"
     description: A Helm chart for Kubernetes
     digest: 18d50e7c77ff51e728c1d68bb58e146ae571c24d9202c31def6f6fbbad449a4e
     name: jenkins
@@ -13,7 +23,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: latest
-    created: "2025-05-26T21:46:12.332083542+03:00"
+    created: "2025-06-10T15:00:01.977901301+03:00"
     description: A Helm chart for Kubernetes
     digest: 22c08cfe8b457baff98d42e01218fd4a077d3c1c66a3ce3721a48df1115c84fb
     name: jenkins
@@ -23,7 +33,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: latest
-    created: "2025-05-26T21:46:12.331461581+03:00"
+    created: "2025-06-10T15:00:01.977443453+03:00"
     description: A Helm chart for Kubernetes
     digest: 82a8adb550ac33583ecafd6105072ca148d0e6b0cbaacb87b5777d155f426be0
     name: jenkins
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://infinity-step.github.io/project_14/helm-releases/jenkins-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-26T21:46:12.322600246+03:00"
+generated: "2025-06-10T15:00:01.976908605+03:00"
